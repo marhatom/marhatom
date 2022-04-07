@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marhatom
+- Hi, I’m @marhatom
 - I am currently studying at Faculty of Mechanical Engineering at CTU in Prague.
 
 <!---
